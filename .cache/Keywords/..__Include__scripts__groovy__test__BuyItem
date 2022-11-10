@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "520CC7B36FEDDCC2BFC3F2CBAE08FCB1",
+  "keywordClasses": [
+    {
+      "name": "test.BuyItem",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

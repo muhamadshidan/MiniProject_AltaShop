@@ -1,0 +1,18 @@
+{
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "keywordFileContentHash": "535CD4A90DC0DAFE5CA4DDC6F1A19DCE",
+=======
+  "keywordFileContentHash": "FC27D2D35E870A5B0A8E7B4FE7C98AC0",
+>>>>>>> branch 'Mobile' of https://github.com/muhamadshidan/MiniProject.git
+=======
+  "keywordFileContentHash": "FC27D2D35E870A5B0A8E7B4FE7C98AC0",
+>>>>>>> branch 'Main' of https://github.com/muhamadshidan/MiniProject.git
+  "keywordClasses": [
+    {
+      "name": "Register",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

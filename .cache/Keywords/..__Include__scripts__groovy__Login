@@ -1,0 +1,53 @@
+{
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "keywordFileContentHash": "4289DC70A86BFC3447A11CDD67E86F35",
+  "keywordClasses": [
+    {
+      "name": "Login",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+=======
+<<<<<<< HEAD
+  "keywordFileContentHash": "87E9C1F9B5BB513CEBDBDAC5CA71078A",
+  "keywordClasses": [
+    {
+      "name": "Login",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+=======
+  "keywordFileContentHash": "6140865EF7A3B3881ED02E675496B2F5",
+  "keywordClasses": [
+    {
+      "name": "Login",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+>>>>>>> branch 'main' of https://github.com/muhamadshidan/MiniProjectALTASHOP.git
+>>>>>>> branch 'Mobile' of https://github.com/muhamadshidan/MiniProject.git
+=======
+  "keywordFileContentHash": "87E9C1F9B5BB513CEBDBDAC5CA71078A",
+  "keywordClasses": [
+    {
+      "name": "Login",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+=======
+  "keywordFileContentHash": "6140865EF7A3B3881ED02E675496B2F5",
+  "keywordClasses": [
+    {
+      "name": "Login",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+>>>>>>> branch 'main' of https://github.com/muhamadshidan/MiniProjectALTASHOP.git
+>>>>>>> branch 'Main' of https://github.com/muhamadshidan/MiniProject.git
+}

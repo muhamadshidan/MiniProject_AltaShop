@@ -1,0 +1,32 @@
+{
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "keywordFileContentHash": "9C67B1A6EBFC78168B3EF73E6D3D1EA3",
+  "keywordClasses": [
+    {
+      "name": "BuyItem",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+=======
+  "keywordFileContentHash": "CDC85FE93360E6CD758D5BE0A2F37AA5",
+  "keywordClasses": [
+    {
+      "name": "BuyItem",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+>>>>>>> branch 'Mobile' of https://github.com/muhamadshidan/MiniProject.git
+=======
+  "keywordFileContentHash": "CDC85FE93360E6CD758D5BE0A2F37AA5",
+  "keywordClasses": [
+    {
+      "name": "BuyItem",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+>>>>>>> branch 'Main' of https://github.com/muhamadshidan/MiniProject.git
+}
